@@ -294,44 +294,6 @@ TorchVision  0.21.0
 TIMM         1.0.15
 ```
 
----
-
-## 📂 Repository
-
-**Dual-Path-Fusion-Network-for-eXplainable-Medical-Image**
-
-Repository:
-
-https://github.com/mithilaarman/Dual-Path-Fusion-Network-for-eXplainable-Medical-Image
-
----
-
-## 👥 Authors
-
-* Md. Mahid Arfan Rahat
-* Mithila Arman
-* Abid Haider
-* Isha Das
-* Mehedi Hasan
-
----
-
-## 📚 Citation
-
-If you use the implementation or results from this repository in your research, please cite the corresponding work.
-
-```bibtex
-@article{p2fnet2026,
-  author = {Rahat, Md. Mahid Arfan and
-            Arman, Mithila and
-            Haider, Abid and
-            Das, Isha and
-            Hasan, Mehedi},
-  year   = {2026}
-}
-```
-
-Publication information, DOI, volume, issue, and page numbers can be added after the final publication metadata becomes available.
 
 ---
 
