@@ -295,19 +295,4 @@ TIMM         1.0.15
 ```
 
 
----
-
-## 🔮 Future Work
-
-Future extensions may investigate:
-
-* Adaptive feature-fusion mechanisms
-* Attention-based fusion strategies
-* Additional lightweight global backbones
-* Cross-dataset generalization
-* External clinical validation
-* Model calibration and uncertainty estimation
-* Additional explainability techniques
-* Efficient deployment on resource-constrained hardware
-
 The overall goal is to further improve interactions between local and global representations while maintaining the computational efficiency of the framework.
